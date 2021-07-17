@@ -1,4 +1,4 @@
-# Fresh Meal Shop(Restaurant Website)
+# tindog (Dating Website)
 
 •tindog is a Dating Website for Dogs, which is build using complete frontend Stack to make it 100% reponsive for all size screen devices.
 • Bootstrap is used to make it responsive and implementing other features like:- crousal animations, designing of buttons e.t.c
